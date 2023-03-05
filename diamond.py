@@ -16,3 +16,4 @@ for i in range(0,n-1):
         print(lef + "* " + rig +"*")
         
 print("HELLO WORLD")
+print("HELLO WORLD")
