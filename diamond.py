@@ -15,3 +15,4 @@ for i in range(0,n-1):
         rig = "  "*(n-i-3)
         print(lef + "* " + rig +"*")
         
+print("HELLO WORLD")
